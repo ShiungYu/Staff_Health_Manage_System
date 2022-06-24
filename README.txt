@@ -1,3 +1,9 @@
+這是一個給公司老闆管理員工們健康狀態的系統，並包含GUI，MySql等內容
+
+
+
+操作方法
+
 1.先來這裡下載mysql(window和platform都要共下載兩個檔案)
 https://dev.mysql.com/downloads/connector/j/
 
